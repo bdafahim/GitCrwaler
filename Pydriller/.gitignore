@@ -1,0 +1,10 @@
+# Ignore access token file
+access_token.txt
+
+# Add other files and directories to ignore below as needed
+# Examples:
+# .DS_Store
+# node_modules/
+# *.log
+# *.pyc
+# __pycache__/
